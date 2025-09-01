@@ -1,0 +1,15 @@
+# Dual License Notice
+
+This repository uses two different licenses depending on the type of content:
+
+1. **Code and Scripts**
+   Licensed under the MIT License.  
+   See [LICENSE-MIT](./LICENSE-MIT) for full text.
+
+2. **Notes, Guides, and Printables**
+   Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+   See [LICENSE-CC-BY](./LICENSE-CC-BY) for full text.
+
+This setup means:
+- You can use and share my code under the permissive MIT terms.
+- You can reuse my shack notes and docs under CC BY 4.0, as long as you give proper credit.
