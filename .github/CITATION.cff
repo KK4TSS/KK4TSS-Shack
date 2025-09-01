@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repo, please cite it as below."
+title: "KK4TSS-Shack"
+version: "1.0.0"
+date-released: 2025-09-01
+url: "https://github.com/KK4TSS/KK4TSS-Shack"
+
+authors:
+  - family-names: "Parrish"
+    given-names: "Christopher"
+    orcid: "https://orcid.org/0009-0004-5838-0461"
+
+licenses:
+  - identifier: MIT
+  - identifier: CC-BY-4.0
