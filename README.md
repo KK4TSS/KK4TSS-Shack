@@ -13,8 +13,15 @@ Welcome to my shack notes. This repo is where I park configs, scripts, and rando
 # Why Bother
 Because I hate re-doing the same work twice. This repo keeps my shack organized and might save another ham some headaches. Copy, fork, or ignore — totally up to you.
 
-# License
+## License
 
-MIT. Do what you want with it. Credit if you feel like it.
+This repository uses a **dual-license setup**:
+
+- **Code and scripts** → Licensed under the [MIT License](./LICENSE-MIT)  
+- **Notes, guides, and printables** → Licensed under [CC BY 4.0](./LICENSE-CC-BY)  
+
+See the [LICENSE](./LICENSE) file for details.  
+
+That means you can use my code however you like (MIT), and you can reuse my shack notes and docs as long as you give credit (CC BY 4.0).
 
 👋 73, KK4TSS (Chris)
