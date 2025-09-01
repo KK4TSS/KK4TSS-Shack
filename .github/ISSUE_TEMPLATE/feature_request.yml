@@ -1,0 +1,52 @@
+name: Feature Request
+description: Suggest a new idea or improvement for KK4TSS-Shack
+title: "[Feature] "
+labels: ["enhancement"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: "## Got an idea?\nThanks for suggesting an improvement! Fill out the details below."
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: "One-line summary of your idea."
+      placeholder: ""
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Motivation
+      description: "What problem would this feature solve? Why would it help?"
+      placeholder: ""
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: "What would the feature do? How should it work?"
+      placeholder: ""
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: "Have you thought of different approaches?"
+      placeholder: ""
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: "Anything else I should know? Links, screenshots, references."
